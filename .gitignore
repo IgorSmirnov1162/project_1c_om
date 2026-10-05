@@ -1,0 +1,6 @@
+*.cf
+*.cfe
+*.dt
+*.1cd
+*.log
+/Temp/
